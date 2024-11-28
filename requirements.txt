@@ -1,1 +1,6 @@
 streamlit
+google-generativeai 
+pydub 
+transformers
+torch
+TTS
